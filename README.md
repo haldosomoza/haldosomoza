@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Haldo and now (2023-2024) I am in Mississauga studying a postgraduate degree in Big Data Analytics.
+After 17 years programming in Java Language and some C#, I'm trying to learn new ones and new technologies.
 
 <!--
 **haldosomoza/haldosomoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
